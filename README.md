@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**talitaaulia91/talitaaulia91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tenteniaa/tenteniaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +11,17 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/talitaaulia91">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tenteniaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tenteniaa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/hamimma-talita-aulia/">LinkedIn</a>
